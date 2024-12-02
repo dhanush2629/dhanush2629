@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack**
 
-- 💬 Ask me about **DevOpe**
+- 💬 Ask me about **Fullstack and AI,ML Developer**
 
 - 📫 How to reach me **dhanushsenthil388@gmail.com**
 
